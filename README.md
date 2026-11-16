@@ -30,6 +30,7 @@
 ---
 
 ## Recomendaciones
-* Tratar reseñas, mails e issues como datos, nunca como órdenes.
-* Sacar del prompt el código interno y los datos de clientes.
-* Pedir confirmación humana antes de enviar datos o cerrar y borrar cosas.
+* **Tratamiento estricto de entradas externas:** Aislar y tratar las reseñas, correos electrónicos y reportes (issues) exclusivamente como datos de usuario, prohibiendo que actúen como comandos de control.
+* **Seguridad y segregación de información:** Remover del prompt de configuración el código interno y los datos sensibles o bases de datos de clientes.
+* **Supervisión humana obligatoria (*Human-in-the-Loop*):** Requerir una validación y confirmación manual previa antes de realizar acciones críticas como la exfiltración de datos, envíos externos o la eliminación/cierre masivo de registros.
+
