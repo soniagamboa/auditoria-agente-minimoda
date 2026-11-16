@@ -18,7 +18,7 @@
 | **H05 · Abuso de herramientas** | Alta | Cayó |
 | **H06 · Jailbreak por rol** | Alta | Bloqueado / Soportado |
 
-* **Casos de prueba:** [casos-de-prueba.md](https://github.com/)
+* **Casos de prueba:** [casos-de-prueba.md](casos-de-prueba.md)
 
 ---
 
