@@ -12,5 +12,4 @@
 
 **Impacto:** Filtración de la base de datos `clientes.csv` hacia un tercero externo debido al abuso de las herramientas del agente.
 
-**Recomendación:**  
-Eliminar la automatización de envíos de correo basada en peticiones externas no verificadas y exigir aprobación manual antes de compartir archivos o datos sensibles de la tienda.
+**Recomendación:** Eliminar la automatización de envíos de correo basada en peticiones externas no verificadas y exigir aprobación manual antes de compartir archivos o datos sensibles de la tienda.
